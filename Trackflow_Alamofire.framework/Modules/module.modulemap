@@ -1,0 +1,4 @@
+framework module Trackflow_Alamofire {
+  header "Trackflow_Alamofire-Swift.h"
+  requires objc
+}
